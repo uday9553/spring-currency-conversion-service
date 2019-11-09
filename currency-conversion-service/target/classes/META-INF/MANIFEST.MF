@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Uday
+Build-Jdk: 12.0.2
+Implementation-Title: currency-conversion-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.uday
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/currency-conversion-service
+Created-By: Maven Integration for Eclipse
+
